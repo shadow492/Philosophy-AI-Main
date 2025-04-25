@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-groq
+python-dotenv
+openai>=1.12.0
+django
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+pymongo
+requests
+gunicorn
